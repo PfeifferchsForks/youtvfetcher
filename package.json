@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "console-stamp": "^0.2.9",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "node-fetch": "^2.6.0",
     "node-notifier": "^6.0.0",
     "pify": "^4.0.1"
